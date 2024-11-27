@@ -1,5 +1,5 @@
 ## Hi, I'm Rakib 👋
-[<img src='https://raw.githubusercontent.com/Abdur-Rakib-Talukder/Abdur-Rakib-Talukder/refs/heads/main/Image/Rakib.jpg' alt='Rakib'>](https://github.com/Abdur-Rakib-Talukder/)
+[<img style="border-radius: 25px;" src='https://raw.githubusercontent.com/Abdur-Rakib-Talukder/Abdur-Rakib-Talukder/refs/heads/main/Image/Rakib.jpg' alt='Rakib'>](https://github.com/Abdur-Rakib-Talukder/)
 <p>
 👑 I am All in One Developer <br> 
 ⚒️ Love to Developing <br> 
