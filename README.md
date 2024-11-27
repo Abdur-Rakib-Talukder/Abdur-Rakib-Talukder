@@ -18,4 +18,4 @@ Abdur Rakib Talukder is an individual with a strong passion for computer science
 
 
 ## 📧 For Business Inquiries 
-✉️ ► mai.rakib.business@gmail.com
+✉️ ► mail.rakib.business@gmail.com
