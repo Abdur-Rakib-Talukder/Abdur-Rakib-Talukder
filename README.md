@@ -14,7 +14,7 @@ Abdur Rakib Talukder is an individual with a strong passion for computer science
 • Wabsite Development <br>
 • Graphic Design <br>
 • HTML5 / CSS3 / JAVA <br>
-• Pxil lab / Skachware / Blogger / Github <br>
+• Pixellab / Sketchware / Blogger / Github <br>
 
 
 ## 📧 For Business Inquiries 
