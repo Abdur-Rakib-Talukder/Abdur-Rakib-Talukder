@@ -6,7 +6,7 @@
 💭 Like to share my knowledge </p> 
 
 
-<p align="left"> <a href="https://twitter.com/shovoalways" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/AbdurRakibTalukder?logo=twitter&style=for-the-badge" alt="AbdurRakibTalukder" /></a> </p>
 
 ## 🚀 About Me
 Abdur Rakib Talukder is an individual with a strong passion for computer science and engineering. With a keen interest in technology and innovation, he is focused on exploring the latest advancements in the field, solving complex problems, and contributing to impactful projects.
