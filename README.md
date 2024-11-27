@@ -10,12 +10,12 @@
 Abdur Rakib Talukder is an individual with a strong passion for computer science and engineering. With a keen interest in technology and innovation, he is focused on exploring the latest advancements in the field, solving complex problems, and contributing to impactful projects.
 
 ## 👨‍💻 Skills & Experiance: 
-✅ Software Development <br> 
-✅ Wabsite Development <br>
-✅ Graphic Design <br>
-✅ HTML5 / CSS3 / JAVA <br>
-✅ Pxil lab / Skachware / Blogger / Github <br>
+• Software Development <br> 
+• Wabsite Development <br>
+• Graphic Design <br>
+• HTML5 / CSS3 / JAVA <br>
+• Pxil lab / Skachware / Blogger / Github <br>
 
 
 ## 📧 For Business Inquiries 
-✅  ► rakib@gmail.com
+✉️ ► abdurrakibtalukder.me@gmail.com
